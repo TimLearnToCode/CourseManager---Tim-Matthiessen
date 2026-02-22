@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CoursesManager.Application/CoursesManager.Application.csproj" />
+  <Project Path="CoursesManager.Domain/CoursesManager.Domain.csproj" />
+  <Project Path="CoursesManager.Infrastructure/CoursesManager.Infrastructure.csproj" />
+  <Project Path="CoursesManager.Presentation/CoursesManager.Presentation.csproj" />
+  <Project Path="CoursesManager.Tests/CoursesManager.Tests.csproj" />
+</Solution>
