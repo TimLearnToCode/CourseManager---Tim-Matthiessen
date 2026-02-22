@@ -1,0 +1,15 @@
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\bin\Debug\net10.0\CoursesManager.Application.deps.json
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\bin\Debug\net10.0\CoursesManager.Application.dll
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\bin\Debug\net10.0\CoursesManager.Application.pdb
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\bin\Debug\net10.0\CoursesManager.Domain.dll
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\bin\Debug\net10.0\CoursesManager.Domain.pdb
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\obj\Debug\net10.0\CoursesManager.Application.csproj.AssemblyReference.cache
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\obj\Debug\net10.0\CoursesManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\obj\Debug\net10.0\CoursesManager.Application.AssemblyInfoInputs.cache
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\obj\Debug\net10.0\CoursesManager.Application.AssemblyInfo.cs
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\obj\Debug\net10.0\CoursesManager.Application.csproj.CoreCompileInputs.cache
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\obj\Debug\net10.0\CoursesM.120F2446.Up2Date
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\obj\Debug\net10.0\CoursesManager.Application.dll
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\obj\Debug\net10.0\refint\CoursesManager.Application.dll
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\obj\Debug\net10.0\CoursesManager.Application.pdb
+C:\datalagringSkola\CoursesManager\CoursesManager.Application\obj\Debug\net10.0\ref\CoursesManager.Application.dll
